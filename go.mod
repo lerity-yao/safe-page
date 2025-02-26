@@ -1,3 +1,3 @@
 module github.com/lerity-yao/safe-page
 
-go 1.23
+go 1.21
